@@ -1,0 +1,23 @@
+# Site settings
+title: Jonathan Lucki
+author: Jonathan Lucki
+author-email: jwlucki@edu.uwaterloo.ca
+author-info: Computer Science Major - Economics Minor
+author-school: University of Waterloo
+description: Personal website for Jonathan Lucki
+base-url: http://jonathanlucki.ca/
+gtag: 
+
+# Asset paths
+stylesheet-path: /assets/css/stylesheet.css
+about-photo-path: /assets/img/about-photo.jpg
+logo-path: /assets/img/logo.png
+favicon-path: /assets/img/favicon.ico
+favicon-16x16-path: /assets/img/favicon-16x16.png
+favicon-32x32-path: /assets/img/favicon-32x32.png
+home-background-path: /assets/img/home-background.gif
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

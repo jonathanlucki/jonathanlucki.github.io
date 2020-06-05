@@ -1,0 +1,16 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{page.title}} | {{site.title}}</title>
+<meta name="author" content="{{site.author}}">
+<meta name="description" content="{{site.description}}">
+<link rel="shortcut icon" href="{{site.favicon-path}}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{site.favicon-16x16-path}}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{site.favicon-32x32-path}}">
+<link rel="stylesheet" type="text/css" href="{{site.stylesheet-path}}">
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.gtag}}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{site.gtag}}');
+</script>
