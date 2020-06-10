@@ -1,0 +1,12 @@
+- text: Home
+  path: /
+- text: About
+  path: /about.html
+- text: Projects
+  path: /projects.html
+- text: Photos
+  path: https://www.flickr.com/photos/141722380@N06/
+- text: Resume
+  path: /Jonathan_Lucki_Resume.pdf
+- text: Contact
+  path: /contact.html

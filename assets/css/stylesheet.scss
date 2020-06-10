@@ -7,4 +7,7 @@ $secondary-colour: rgb(255,255,255);
 $mobile-breakpoint: 768px;
 
 //import SASS partials
-@import "base";
+@import "containers";
+@import "fonts";
+@import "text";
+@import "nav";

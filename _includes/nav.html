@@ -1,0 +1,11 @@
+<nav class="nav-text">
+    <ul class="nav-bar">
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{item.path}}" class="navbar-item">
+                <b class="has-text-white">{{item.text}}</b>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>

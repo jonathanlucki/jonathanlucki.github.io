@@ -1,0 +1,26 @@
+.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar li {
+    display: inline-block;
+}
+
+.nav-bar li:not(:first-child):before {
+    content: '/';
+    padding: 0 9px 0 9px;
+}
+
+.nav-bar li a {
+    text-transform: uppercase;
+    color: inherit;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.nav-bar li a:hover {
+    color: darkgray;
+    transition: 0.2s;
+}

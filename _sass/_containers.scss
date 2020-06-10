@@ -1,0 +1,13 @@
+.home-container {
+    background-color: $primary-colour;
+}
+
+body {
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    background-color: $primary-colour;
+  }
+  
+  html {
+    height: -webkit-fill-available;
+  }
