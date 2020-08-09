@@ -1,0 +1,12 @@
+- name: contact
+  icon: fas fa-envelope
+  link: /contact.html
+- name: github
+  icon: fab fa-github fa-lg
+  link: https://github.com/jonathanlucki
+- name: linkedin
+  icon: fab fa-linkedin-in fa-lg
+  link: https://www.linkedin.com/in/jlucki
+- name: flickr
+  icon: fas fa-camera-retro fa-lg
+  link: https://www.flickr.com/photos/141722380@N06/
