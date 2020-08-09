@@ -2,16 +2,14 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 @media (max-width: $mobile-breakpoint) {
     .nav-bar {
         font-size: 14px;
     }
-  }
-
-
+}
 
 .nav-bar li {
     display: inline-block;
@@ -19,7 +17,13 @@
 
 .nav-bar li:not(:first-child):before {
     content: '/';
-    padding: 0 9px 0 9px;
+    padding: 0 12px 0 12px;
+}
+
+@media (max-width: $mobile-breakpoint) {
+    .nav-bar li:not(:first-child):before {
+        padding: 0 9px 0 9px;
+    }
 }
 
 .nav-bar li a {
