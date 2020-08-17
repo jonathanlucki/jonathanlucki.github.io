@@ -60,3 +60,32 @@ html {
   flex: 5;
   flex-basis: 0;
 }
+
+.page-pane {
+  min-height: 100%;
+  background-color: $primary-colour;
+}
+
+.page-container {
+  margin: auto;
+  padding: 20px 20px 20px 20px;
+  max-width: $mobile-breakpoint;
+}
+
+.page-header {
+  @include full-center;
+  height: 50px;
+}
+
+.page-footer {
+  @include full-center;
+  height: 60px;
+}
+
+.page-image-container {
+  @include full-center;
+}
+
+.page-image-container img {
+  width: 100%;
+}
