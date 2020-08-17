@@ -11,6 +11,8 @@ gtag:
 # Asset paths
 stylesheet-path: /assets/css/stylesheet.css
 home-image-path: /assets/img/main.jpg
+home-image-480-path: /assets/img/main-480.jpg
+home-image-800-path: /assets/img/main-800.jpg
 about-photo-path: /assets/img/about-photo.jpg
 logo-path: /assets/img/logo.png
 favicon-path: /assets/img/favicon.ico
