@@ -35,11 +35,20 @@
     }
 }
 
-p, h1, h2, h3, h4, h5, h6, li {
+p, h1, h2, h3, h4, h5, h6, li, a {
     font-family: 'Roboto-Regular';
     color: $secondary-colour;
 }
 
 p {
     font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgray;
+    transition: 0.2s;
 }

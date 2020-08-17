@@ -1,0 +1,22 @@
+---
+layout: page
+title: Projects
+---
+
+{% for project in site.data.projects %}
+
+    <hr>
+
+    <h3>{{project.name}}</h3>
+
+    <p><a href="{{project.github}}">Github Link</a> | <a href="{{project.link}}">Demo Link</a></p>
+
+    <ul>
+    {% for item in project.info %}
+
+        <li>{{item.text}}</li>
+
+    {% endfor %}
+    </ul>
+
+{% endfor %}
