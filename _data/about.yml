@@ -1,7 +1,7 @@
 paragraphs:
-  - text: Hello! My name is Jonathan Lucki and welcome to my personal website! 
-  - text: I've been fortunate enough to have studied Math, Computer Science, and Economics from 2017 to 2022 at the University of Waterloo — and currently I work as a software engineer.
-  - text: On this site you have access to my projects, my resume, my photography, and my contact details. It is a bit out of date though! Most of it hasn't been updated since my second year of university.
+  - text: Hello! I'm Jonathan — welcome to my personal website! 
+  - text: I studied Math, Computer Science, and Economics from 2017 to 2022 at the University of Waterloo — and currently I work as a software engineer / site reliability engineer.
+  - text: On this site you have access to my projects, my resume, my photography, and my contact details. It is a bit out of date though — most of it hasn't been updated since my second year of university.
   - text: Thanks for visiting!
 interests:
   starter: "Here are some things I'm interested in:"
@@ -9,4 +9,4 @@ interests:
     - text: "<b>Casual Photography: </b>I am not a professional photographer and do not own fancy equipment - that being said - I do really enjoy taking many bad photos with my phone. Very very <i>occasionally</i>, a few turn out okay - or at least I think so."
     - text: "<b>Economics: </b> Ever since high school economics has been one of my favourite subjects to learn about. I had the amazing opportunity to study it along with Computer Science during my time at university."
     - text: "<b>Transit Networks/Maps: </b>I am <em>very</em> into maps. In particular, my favourite is transit maps. I like everything that has to do with the transportation and movement of people and in particular their networks. If you would like to send me any cool maps please do!"
-    - text: "<b>Photo Colourization: </b>A few years ago I started using Photoshop to colour old black and white photos by request. I cannot however post them here as they are still technically other peoples private photographs. If you're interested in getting a photo colourized you can ask me about it."
+    
