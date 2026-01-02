@@ -1,9 +1,7 @@
 paragraphs:
   - text: Hello! I'm Jonathan — welcome to my personal website!
   - text: I studied Math, Computer Science, and Economics from 2017 to 2022 at the University of Waterloo — and currently I work as an infrastructure engineer / site reliability engineer at Carta.
+  - text: I speak English and French, and some of my interests include maths, economics, transit, and maps.
   - text: This site used to have my projects, resume, and photography, but there's not much on it these days. I keep it around for some reason though.
   - text: Thanks for visiting!
-interests:
-  starter: "I speak English and French, and some of my interests include maths, economics, transit, and maps."
-  content:
     
