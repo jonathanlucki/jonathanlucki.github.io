@@ -1,12 +1,9 @@
 paragraphs:
-  - text: Hello! I'm Jonathan — welcome to my personal website! 
-  - text: I studied Math, Computer Science, and Economics from 2017 to 2022 at the University of Waterloo — and currently I work as a software engineer / site reliability engineer.
-  - text: On this site you have access to my projects, my resume, my photography, and my contact details. It is a bit out of date though — most of it hasn't been updated since my second year of university.
+  - text: Hello! I'm Jonathan — welcome to my personal website!
+  - text: I studied Math, Computer Science, and Economics from 2017 to 2022 at the University of Waterloo — and currently I work as an infrastructure engineer / site reliability engineer at Carta.
+  - text: This site used to have my projects, resume, and photography, but there's not much on it these days. I keep it around for some reason though.
   - text: Thanks for visiting!
 interests:
-  starter: "Here are some things I'm interested in:"
+  starter: "I speak English and French, and some of my interests include maths, economics, transit, and maps."
   content:
-    - text: "<b>Casual Photography: </b>I am not a professional photographer and do not own fancy equipment - that being said - I do really enjoy taking many bad photos with my phone. Very very <i>occasionally</i>, a few turn out okay - or at least I think so."
-    - text: "<b>Economics: </b> Ever since high school economics has been one of my favourite subjects to learn about. I had the amazing opportunity to study it along with Computer Science during my time at university."
-    - text: "<b>Transit Networks/Maps: </b>I am <em>very</em> into maps. In particular, my favourite is transit maps. I like everything that has to do with the transportation and movement of people and in particular their networks. If you would like to send me any cool maps please do!"
     
