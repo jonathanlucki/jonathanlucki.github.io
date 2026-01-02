@@ -10,3 +10,4 @@
 - name: flickr
   icon: fas fa-camera-retro fa-lg
   link: https://www.flickr.com/photos/141722380@N06/
+  visible: false
