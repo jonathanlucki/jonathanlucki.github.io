@@ -3,6 +3,15 @@ layout: page
 title: Contact
 ---
 
-<p class="content-text">To contact me, please feel free to send me an email at: {{site.author-email}}</p>
+<p class="content-text">To contact me, please feel free to send me an email at: <span id="contact-email"></span></p>
 
 <p class="content-text">:)</p>
+
+<script>
+(function() {
+  var u = 'lucki.jonathan';
+  var t = 'site';
+  var d = 'gmail.com';
+  document.getElementById('contact-email').textContent = u + '+' + t + '@' + d;
+})();
+</script>
